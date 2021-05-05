@@ -56,6 +56,12 @@ Here are some ideas to get you started:
 
 #
 
+### MY CP WEBSITE PROFILES
+[![LeetCode](icons/leetcode.png)](https://leetcode.com/Shaoun20/)
+[![Web](icons/web.png)](https://programmershaoun.com)
+
+#
+
 ### CONTACT WITH ME
 
 [![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/shaoun-chandra-shill-56233b165/)
@@ -63,13 +69,5 @@ Here are some ideas to get you started:
 [![Tutanota](icons/tutanota.png)](mailto:)
 
 
-### MY CP WEBSITE PROFILES
-[![LeetCode](icons/leetcode.png)](https://leetcode.com//Shaoun20/)
-[![Web](icons/web.png)](https://programmershaoun.com)
 
-
-
-
-
-# Shaoun18
 # Shaoun18
