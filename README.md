@@ -1,3 +1,4 @@
+**shaoun18/shaoun18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hey 👋👋👋, I'm Shaoun Chandra Shill
 
 <a href="https://www.linkedin.com/in/shaoun-chandra-shill-56233b165/">
@@ -25,7 +26,7 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web devel
 - 👨🏽‍💻 Full time learner; 
 - 🤔 My interests are with python programming, data science, Blockchain Technology, web developing etc..;
 - 🌱 I’m currently learning Mobile Application Develpment in Android;
-- 🔭 I’m currently working on CPA Marketing in Mylead
+- 🔭 I’m currently working on CPA Marketing in Mylead;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
@@ -36,9 +37,8 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web devel
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
-<!--
-**shaoun18/shaoun18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 ![Shaoun github stats](https://github-readme-stats.vercel.app/api?username=shaoun18&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaoun18&layout=compact)
