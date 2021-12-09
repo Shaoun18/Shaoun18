@@ -16,15 +16,16 @@
 <br />
 <br />
 
-Hi there, I'm **Shaoun Chandra Shill**, a **Php Coder** and a **Web developer** 🚀 from Bangladesh.💻 [@shaoun18](https://github.com/shaoun18).
+Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web developer** 🚀 from Bangladesh.💻 [@shaoun18](https://github.com/shaoun18).
 
   <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 Part time learner; 
-- 🤔 My interests are with python programming, data science, web developing etc..;
-- 💼 I’m currently learning Laravel;
+- 👨🏽‍💻 Full time learner; 
+- 🤔 My interests are with python programming, data science, Blockchain Technology, web developing etc..;
+- 🌱 I’m currently learning Mobile Application Develpment in Android;
+- 🔭 I’m currently working on CPA Marketing in Mylead
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
