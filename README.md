@@ -13,6 +13,7 @@
 <a href="https://www.twitter.com/shaoun_shill">
   <img align="left" alt="Shaoun twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+![[Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Fshaoun_shill)](https://github.com/Shaoun18/Shaun18)
 
 <br />
 <br />
@@ -36,7 +37,7 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web devel
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-[![Github Repo size](https://img.shields.io/github/languages/code-size/Shaoun18/Shaoun18)](https://github.com/Shaoun18/Shaun18)
+![[Github Repo size](https://img.shields.io/github/languages/code-size/Shaoun18/Shaoun18)](https://github.com/Shaoun18/Shaun18)
 
 <!--
 Here are some ideas to get you started:
