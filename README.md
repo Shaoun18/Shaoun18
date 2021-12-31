@@ -1,4 +1,4 @@
-**shaoun18/shaoun18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **shaoun18/shaoun18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
 ### Hey 👋👋👋, I'm Shaoun Chandra Shill
 
 <a href="https://www.linkedin.com/in/shaoun-chandra-shill-56233b165/">
@@ -36,7 +36,7 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web devel
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-
+[![Github Repo size](https://img.shields.io/github/languages/code-size/Shaoun18/Shaoun18)](https://github.com/Shaoun18/Shaun18)
 
 <!--
 Here are some ideas to get you started:
@@ -55,19 +55,15 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaoun18&layout=compact)
 
 #
-
 ### MY CP WEBSITE PROFILES
 [![LeetCode](icons/leetcode.png)](https://leetcode.com/Shaoun20/)
 [![Web](icons/web.png)](https://programmershaoun.com)
 
 #
-
 ### CONTACT WITH ME
 
-[![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/shaoun-chandra-shill-56233b165/)
-[![GMAIL](icons/gmail.png)](mailto:)
+<!--[![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/shaoun-chandra-shill-56233b165/)
+[![GMAIL](icons/gmail.png)](mailto:)-->
 [![Tutanota](icons/tutanota.png)](mailto:)
-
-
 
 # Shaoun18
