@@ -26,7 +26,7 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web devel
 - 👨🏽‍💻 Full time learner; 
 - 🤔 My interests are with python programming, data science, Blockchain Technology, web developing etc..;
 - 🌱 I’m currently learning Mobile Application Develpment in Android;
-- 🔭 I’m currently working on CPA Marketing in Mylead;
+- 🔭 I’m currently working on Android App Development in BASIS SEIP Training;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
