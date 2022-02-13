@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web developer** 🚀 from Bangladesh.💻 [@shaoun18](https://github.com/shaoun18).
+Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App developer** 🚀 from Bangladesh.💻 [@shaoun18](https://github.com/shaoun18).
 
   <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
