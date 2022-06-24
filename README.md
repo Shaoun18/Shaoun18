@@ -2,7 +2,6 @@
 ### Hey 👋👋👋, I'm Shaoun Chandra Shill
 
 <br />
-<br />
 
 Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App developer** 🚀 from Bangladesh.💻 [@shaoun18](https://github.com/shaoun18).
 
