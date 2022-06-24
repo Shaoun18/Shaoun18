@@ -20,12 +20,6 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
-### Languages and Tools:
-
-![php](https://img.shields.io/badge/-php-orange)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 ## 🚀 Languages
 <br>
@@ -75,10 +69,7 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App
     <a href="https://twitter.com/shaoun_shill"><img src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/></a>
     <a href="https://www.instagram.com/shaounchandrashill/?hl=en"><img src="https://img.icons8.com/color/48/4a90e2/instagram-new--v2.png"/></a>
 </p>
-                                                                                                 
-<a href="https://www.facebook.com/shaounchandrashill">
-  <img align="left" alt="Shaoun facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>                                                                                                                        
+                                                                                                
 
 # Shaoun18
 
@@ -98,6 +89,18 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App
     </a>
 </p>
 
+                                                                                                    
+                                                                                                    
+### Languages and Tools:
+
+![php](https://img.shields.io/badge/-php-orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+                                                                                                    
+                                                                                                    <a href="https://www.facebook.com/shaounchandrashill">
+  <img align="left" alt="Shaoun facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>                                                                                                                        
 
 ## 📊 My Github Stats
 
