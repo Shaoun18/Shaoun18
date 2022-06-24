@@ -1,19 +1,6 @@
 <!-- **shaoun18/shaoun18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  -->
 ### Hey 👋👋👋, I'm Shaoun Chandra Shill
 
-<a href="https://www.linkedin.com/in/shaoun-chandra-shill-56233b165/">
-  <img align="left" alt="Shaoun LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/shaounchandrashill/">
-  <img align="left" alt="Shaoun Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/shaounchandrashill">
-  <img align="left" alt="Shaoun facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.twitter.com/shaoun_shill">
-  <img align="left" alt="Shaoun twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 <br />
 <br />
 
@@ -80,15 +67,22 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App
 [![LeetCode](icons/leetcode.png)](https://leetcode.com/Shaoun20/)
 <!--[![Web](icons/web.png)](https://programmershaoun.com)-->
 
-#
-### CONTACT WITH ME
 
-<!--[![LINKEDIN](icons/linkedin.png)](https://www.linkedin.com/in/shaoun-chandra-shill-56233b165/)
-[![GMAIL](icons/gmail.png)](mailto:)-->
-[![Tutanota](icons/tutanota.png)](mailto:)
+  ## ❤ Connect with me:
+<br>
+<p align="left>
+    <a href="https://www.linkedin.com/in/shaoun-chandra-shill-56233b165/"><img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/></a>
+    <a href="https://twitter.com/shaoun_shill"><img src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/></a>
+    <a href="https://www.instagram.com/shaounchandrashill/?hl=en"><img src="https://img.icons8.com/color/48/4a90e2/instagram-new--v2.png"/></a>
+</p>
+                                                                                                 
+<a href="https://www.facebook.com/shaounchandrashill">
+  <img align="left" alt="Shaoun facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>                                                                                                                        
 
 # Shaoun18
 
+<!--
 <a href="#"><img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Muhammad Asif</h1>
@@ -115,16 +109,8 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br>
 
-  ## ❤ Connect with me:
-<br>
-<p align="left>
-    <a href="http://www.muhammadasif10.blogspot.com/"><img src="https://img.icons8.com/color/50/4a90e2/internet--v2.png"/></a>
-    <a href="https://www.linkedin.com/in/mohammadasif10/"><img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/></a>
-    <a href="https://twitter.com/alexasifhossain"><img src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/></a>
-    <a href="https://www.instagram.com/asif_hossain_hridoy/?hl=en"><img src="https://img.icons8.com/color/48/4a90e2/instagram-new--v2.png"/></a>
     <a href="https://codepen.io/CODER_ASIF"><img src="https://img.icons8.com/ios/50/4a90e2/codepen.png"/></a>
-</p>
-
+        <a href="http://www.muhammadasif10.blogspot.com/"><img src="https://img.icons8.com/color/50/4a90e2/internet--v2.png"/></a>
 
 ## ❤ Views and Followers
 <a href="https://github.com/shaoun18-Web/github-profile-views-counter">
@@ -132,7 +118,6 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App
 </a>
 <a href="https://github.com/shaoun18-Web?tab=followers"><img src="https://img.shields.io/github/followers/shaoun18-Web?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<!--
 <br><br>
 You can  <a href="https://www.buymeacoffee.com/muhammadasif10" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
 -->
