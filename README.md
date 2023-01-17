@@ -52,8 +52,8 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App
 </p>
 
 
-![Shaoun github stats](https://github-readme-stats.vercel.app/api?username=shaoun18&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaoun18&layout=compact)
+<!-- ![Shaoun github stats](https://github-readme-stats.vercel.app/api?username=shaoun18&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaoun18&layout=compact) -->
 
 #
 ### MY CP WEBSITE PROFILES
