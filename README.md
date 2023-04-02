@@ -19,6 +19,13 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
+## ❤ Views and Followers
+<a href="https://github.com/shaoun18-Web/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shaoun18"
+</a>
+<a href="https://github.com/shaoun18-Web?tab=followers"><img src="https://img.shields.io/github/followers/shaoun18-Web?label=Followers&style=social" alt="GitHub Badge"></a>
+  
+<br>
 
 ## 🚀 Languages
 <br>
