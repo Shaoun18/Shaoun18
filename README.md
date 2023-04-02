@@ -3,7 +3,7 @@
 
 <br />
 
-Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App developer** 🚀 from Bangladesh.💻 [@shaoun18](https://github.com/shaoun18).
+Hi there, I'm **Shaoun Chandra Shill**, a **Full Stack Web Developer** 🚀 from Bangladesh.💻 [@shaoun18](https://github.com/shaoun18).
 
   <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -120,12 +120,6 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Php & Java Coder** and a **Web & App
 
     <a href="https://codepen.io/CODER_ASIF"><img src="https://img.icons8.com/ios/50/4a90e2/codepen.png"/></a>
         <a href="http://www.muhammadasif10.blogspot.com/"><img src="https://img.icons8.com/color/50/4a90e2/internet--v2.png"/></a>
-
-## ❤ Views and Followers
-<a href="https://github.com/shaoun18-Web/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shaoun18"
-</a>
-<a href="https://github.com/shaoun18-Web?tab=followers"><img src="https://img.shields.io/github/followers/shaoun18-Web?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br><br>
 You can  <a href="https://www.buymeacoffee.com/muhammadasif10" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
