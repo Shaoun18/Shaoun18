@@ -71,10 +71,10 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Full Stack Web Developer** 🚀 from
   ## ❤ Connect with me:
 <br>
 <p align="left>
-    <a href="https://www.linkedin.com/in/shaounchandrashill"><img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/></a>
+    <a href="linkedin.com/in/shaounchandrashill/"><img src="https://img.icons8.com/color/48/4a90e2/linkedin.png"/></a>
     <a href="https://www.facebook.com/programmershaoun"><img src="https://img.icons8.com/color/48/4a90e2/facebook-new--v2.png"/></a>
     <a href="https://twitter.com/shaoun_shill"><img src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/></a>
-    <a href="https://www.instagram.com/shaounchandrashill"><img src="https://img.icons8.com/color/48/4a90e2/instagram-new--v2.png"/></a>
+    <a href="https://www.instagram.com/shaounchandrashill/"><img src="https://img.icons8.com/color/48/4a90e2/instagram-new--v2.png"/></a>
 </p>
                                                                                                 
 
