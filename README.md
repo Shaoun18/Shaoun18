@@ -10,8 +10,8 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Full Stack Web Developer** 🚀 from
 ### Talking about Personal Stuff:
 
 - 👨🏽‍💻 Full-time learner; 
-- 🔭 I’m currently working on Python, Javascript, jQuery, Vue.js, PHP, Laravel, MySql, SQLite
-- 🌱 I’m currently learning Laravel & Vue.js  🤣
+- 🔭 I’m currently working on Python, Javascript, jQuery, Vue.js, PHP, WordPress, MySql, SQLite
+- 🌱 I’m currently learning Machine learning & NLP  🤣
 - 🤔 My interests are JavaScript programming, Machine Learning, Blockchain Technology, web development, etc..;
 - 👯 I’m looking to collaborate with others for Updated things🎈
 - 🥅 2024 Goals: Contribute more to [Open Source Community Projects Team](https://github.com/Open-Source-Project-Team)💥
