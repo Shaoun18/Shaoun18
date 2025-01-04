@@ -10,11 +10,11 @@ Hi there, I'm **Shaoun Chandra Shill**, a **Full Stack Web Developer** 🚀 from
 ### Talking about Personal Stuff:
 
 - 👨🏽‍💻 Full-time learner; 
-- 🔭 I’m currently working on Python, Node.js, React, WordPress Theme & Plugin Development, MySQL, and PostgreSQL
+- 🔭 I’m currently working on Python, Node.js, React, Custom WordPress Theme & Plugin Development, MySQL, and PostgreSQL
 - 🌱 I’m currently learning Machine learning & NLP  🤣
 - 🤔 My interests are JavaScript programming, Machine Learning, Blockchain Technology, web development, etc..;
 - 👯 I’m looking to collaborate with others for Updated things🎈
-- 🥅 2024 Goals: Contribute more to [Open Source Community Projects Team](https://github.com/Open-Source-Project-Team)💥
+- 🥅 2025 Goals: Contribute more to [Open Source Community Projects Team](https://github.com/Open-Source-Project-Team)💥
 - ⚡ Fun fact: I love Coding, Travelling, and Gossiping 🏍
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
