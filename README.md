@@ -27,6 +27,8 @@
 ## 📊 GitHub Stats & Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaoun18&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Shaoun's GitHub Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaoun18&theme=dracula&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="Shaoun's Streak" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaoun18&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Shaoun's Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
