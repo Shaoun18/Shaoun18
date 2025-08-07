@@ -51,8 +51,15 @@
 </div>
 
 ## 🎓 Certifications
-- AWS Certified Developer – Associate (2025)
-- Coursera: Machine Learning by BRAC University (2024)
+- [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/) – AWS (2025)
+- [Machine Learning by BRAC University](https://www.coursera.org/learn/YOUR_COURSE_ID) – Coursera (2024)
+- [Cleaning Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/a5d06a728dd2cca5e13e22486930a562366931e4) – DataCamp (2024)
+- [Feature Engineering for Machine Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/f14ff24d48e46e2a8ab417bdf9a4290619b6cf2f) – DataCamp (2024)
+- [Machine Learning for Time Series Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9c8625dfab820a35492f8e30527df35a26b37983) – DataCamp (2024)
+- [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/844f1b12cdfe569c5926ddd79fa9b804170ece43) – DataCamp (2023)
+- [Unsupervised Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e128f8001381d3f15ec7f04c36f41a7e6f6c4) – DataCamp (2023)
+- [Oracle Certified Professional, Java SE 8 Programmer II](https://www.sololearn.com/Certificate/CT-WAGRHCDF/pdf) – SoloLearn (2020)
+  
 <!---
 ## 📝 Recent Blog Posts
 - [Building a Scalable E-Commerce Platform with Laravel](https://yourblog.com/post1) (Aug 2025)
