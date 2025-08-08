@@ -53,9 +53,6 @@
 ## 🎓 Certifications
 - [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/) – AWS (2025)
 - [Data Science & Machine Learning for Beginners](https://drive.google.com/file/d/1nckHtfo43CamhO0wZhklTBg31Y4GK7qs/view?usp=sharing) - Skill.jobs (2025)
-<!--
-- [Machine Learning by BRAC University](https://www.coursera.org/learn/YOUR_COURSE_ID) – Coursera (2024)
---->
 - [Networking & Cyber Security](https://drive.google.com/file/d/1dDNKkDXojsRzX_ck5ITuHSjAzPp_GSho/view?usp=sharing) - Skill.jobs (2024)
 - [Cleaning Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/a5d06a728dd2cca5e13e22486930a562366931e4) – DataCamp (2024)
 - [Feature Engineering for Machine Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/f14ff24d48e46e2a8ab417bdf9a4290619b6cf2f) – DataCamp (2024)
@@ -69,6 +66,8 @@
 - [Building a Scalable E-Commerce Platform with Laravel](https://yourblog.com/post1) (Aug 2025)
 - [Getting Started with NLP in Python](https://yourblog.com/post2) (Jul 2025)
 - [Optimizing React Apps for Performance](https://yourblog.com/post3) (Jun 2025)
+
+- [Machine Learning by BRAC University](https://www.coursera.org/learn/YOUR_COURSE_ID) – Coursera (2024)
 ----->
 
 ## 📬 Connect with Me
