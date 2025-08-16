@@ -20,7 +20,7 @@
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Portfolio** | A sleek personal portfolio with modern UI/UX | HTML, CSS, JavaScript | [🔗 Live](https://shaoun18.github.io/) / [📂 Code](https://github.com/Shaoun18/shaoun18.github.io.git) |
+| **Portfolio** | A sleek personal portfolio with modern UI/UX | HTML, CSS, Angular, TypeScript | [🔗 Live](https://shaoun18.github.io/) / [📂 Code](https://github.com/Shaoun18/shaoun18.github.io.git) |
 | **E-Commerce Platform** | Full-stack e-commerce app with payment integration | Laravel, MySQL, JavaScript | [🔗 Live](https://demo.graygrids.com/themes/shopgrids/) / [📂 Code](https://github.com/Shaoun18/Shopgrids-Ecommerce-Website) |
 | **Sentiment Analyzer** | NLP-based sentiment analysis tool | Python, TensorFlow, NLTK | [🔗 Live]() / [📂 Code](https://github.com/shaoun18/ml-sentiment) |
 
