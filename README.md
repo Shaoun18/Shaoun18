@@ -22,7 +22,7 @@
 |---------|-------------|------------|------|
 | **Portfolio** | A sleek personal portfolio with modern UI/UX | HTML, CSS, Angular, TypeScript | [🔗 Live](https://shaoun18.github.io/) / [📂 Code](https://github.com/Shaoun18/shaoun18.github.io.git) |
 | **E-Commerce Platform** | Full-stack e-commerce app with payment integration | Laravel, MySQL, JavaScript | [🔗 Live](https://demo.graygrids.com/themes/shopgrids/) / [📂 Code](https://github.com/Shaoun18/Shopgrids-Ecommerce-Website) |
-| **ERP Plugin** | Full ERP Solution – CRM, HRM & Accounts Integration | React, PHP, Tailwind CSS, Rest Api | [🔗 Live]([https://demo.graygrids.com/themes/shopgrids/](https://wordpress.org/plugins/zetta-erp/)) / [📂 Code](https://github.com/Shaoun18/WP_Erp/) |
+| **ERP Plugin** | Full ERP Solution – CRM, HRM & Accounts Integration | React, PHP, Tailwind CSS, Rest Api | [🔗 Live](https://wordpress.org/plugins/zetta-erp/) / [📂 Code](https://github.com/Shaoun18/WP_Erp/) |
 | **Sentiment Analyzer** | NLP-based sentiment analysis tool | Python, TensorFlow, NLTK | [🔗 Live]() / [📂 Code](https://github.com/shaoun18/ml-sentiment) |
 
 ## 📊 GitHub Stats & Activity
