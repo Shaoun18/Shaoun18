@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Shaoun Chandra Shill</h1>
   <p>Full Stack Web Developer | Machine Learning Enthusiast | Open Source Contributor</p>
   <p>Building innovative web solutions and exploring AI & Blockchain technologies from Bangladesh 🚀</p>
-  <a href="https://shaoun18.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" target="_blank"></a>
+  <a href="https://shaoun18.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/shaounchandrashill/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/shaoun_shill"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://leetcode.com/Shaoun20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
