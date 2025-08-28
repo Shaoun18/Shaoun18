@@ -31,7 +31,7 @@
   <p><i>Dynamically showcasing my GitHub activity and productivity</i></p>
 <!--   <img src="https://github.com/shaoun18/shaoun18/blob/main/metrics.github.highlights.svg?raw=true" alt="GitHub Highlights" /> -->
 <!--   <img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/metrics.github.highlights.svg" alt="GitHub Highlights" /> -->
-  <img src="https://img.shields.io/badge/Public_Repositories-73-2B2B2B?style=for-the-badge" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Public_Repositories-62-2B2B2B?style=for-the-badge" alt="Public Repos" />
   <img src="https://img.shields.io/badge/Available_for_Hire-Yes-1DA1F2?style=for-the-badge" alt="Hire Status" />
 </div>
 <p align="center">
