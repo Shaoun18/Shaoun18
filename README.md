@@ -52,6 +52,7 @@
 ## 🎓 Certifications
 | Logo | Certification | Issuer | Year |
 |------|---------------|--------|------|
+| <img src="https://www.adscientificindex.com/assets/images/adscientificindex-logo-lite.png" width="32"/> | [World Scientist and University Rankings 2026](https://www.adscientificindex.com/scientist/shaoun-chandra-shill/6105866) | AD Scientific Index | 2025 |
 | <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="32"/> | [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/) | AWS | 2025 |
 | <img src="https://img.icons8.com/fluency/48/certificate.png" width="32"/> | [Data Science & Machine Learning for Beginners](https://drive.google.com/file/d/1nckHtfo43CamhO0wZhklTBg31Y4GK7qs/view?usp=sharing) | Skill.jobs | 2025 |
 | <img src="https://img.icons8.com/fluency/48/certificate.png" width="32"/> | [Networking & Cyber Security](https://drive.google.com/file/d/1dDNKkDXojsRzX_ck5ITuHSjAzPp_GSho/view?usp=sharing) | Skill.jobs | 2024 |
