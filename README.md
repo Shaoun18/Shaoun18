@@ -57,7 +57,7 @@
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="100%" valign="top">
 
 ### 🌟 Areas of Interest
 - 📝 Natural Language Processing (Bangla & multilingual text)  
@@ -67,7 +67,7 @@
 - 📈 Deep Learning (time series & unsupervised learning)  
 
 </td>
-<td width="30%" valign="top">
+<td width="100%" valign="top">
 
 ### 📊 Research Metrics  
 
@@ -81,6 +81,7 @@
 </td>
 </tr>
 </table>
+
 
 ### 🌍 Potential Collaborators & Groups  
 
