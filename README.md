@@ -29,8 +29,7 @@
 ## 🌟 GitHub Highlights
 <div align="center">
   <p><i>Dynamically showcasing my GitHub activity and productivity</i></p>
-<!--   <img src="https://github.com/shaoun18/shaoun18/blob/main/metrics.github.highlights.svg?raw=true" alt="GitHub Highlights" /> -->
-<!--   <img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/metrics.github.highlights.svg" alt="GitHub Highlights" /> -->
+  <!-- <img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/metrics.github.highlights.svg" alt="GitHub Highlights" /> -->
   <img src="https://img.shields.io/badge/Public_Repositories-62-2B2B2B?style=for-the-badge" alt="Public Repos" />
   <img src="https://img.shields.io/badge/Available_for_Hire-Yes-1DA1F2?style=for-the-badge" alt="Hire Status" />
 </div>
@@ -45,9 +44,34 @@
   - 🐛 Fixed a bug in <a href="https://github.com/open-source-project/example">Example Repo</a> issue #123 (Jul 2025)<br>
   - ⭐ Reached 50 stars on my <a href="https://github.com/shaoun18/shaoun18.github.io">Portfolio</a> repository!
 </p>
-🕑 Weekly Coding Activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+## 🔬 Research Collaborations
+<div align="center">
+  <p><i>Currently seeking research collaborations in Machine Learning, NLP, and AI applications. Open to exploring AI-driven solutions for accessibility, Bangla language processing, and web development automation.</i></p>
+</div>
+
+### Areas of Interest
+- Natural Language Processing (NLP) for Bangla language
+- Machine Learning applications in software engineering
+- AI-driven solutions for accessibility and cybersecurity
+- Empirical Software Engineering and Human-Computer Interaction
+- Deep Learning for time series data and unsupervised learning
+
+### Research Metrics
+| Metric | Count |
+|--------|-------|
+| Publications | 1 (aspiring researcher) |
+| Citations | 1 |
+| Collaborators | 0 (seeking opportunities) |
+| Research Projects | 1 (Sentiment Analyzer - NLP tool) |
+
+### Potential Collaborators & Groups
+I am actively looking to collaborate with researchers and groups in Bangladesh and beyond. Some potential collaborators and research groups include:
+- **Neural Research Bangladesh** – Focused on Computer Science, Machine Learning, AI, and Deep Learning. [Website](https://www.neuralresearchbd.com/)
+- **Computational Intelligence and Operations Laboratory (CIOL)** – Developing Bangla NLP techniques for text classification and sentiment analysis. [Lab](https://ciol-researchlab.github.io/)
+- **TensorFlow User Group Bangladesh** – Community for ML developers and researchers. [LinkedIn](https://www.linkedin.com/company/madncb)
+
+Open to joint projects, co-authorship, or contributions to open-source research initiatives. Reach out via email or LinkedIn for collaboration opportunities!
 
 ## 🎓 Certifications
 | Logo | Certification | Issuer | Year |
