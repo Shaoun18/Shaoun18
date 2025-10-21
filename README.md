@@ -116,7 +116,6 @@
 | <img src="https://bitm.org.bd/storage/sites/0g5HsyGrInhhqXUoV8WtU5qtKkkqJg3MDYL4m92C.png" width="32"/> | [Web Design & Development Using Laravel &Vue.js](https://drive.google.com/file/d/1yZHr2WyzQCvxzPr1rQ_vTnQfis7sTJhB/view?usp=drive_link) | BITM | 2022 |
 | <img src="https://pencilbox.edu.bd/frontend/assets/img/logo/logo.webp" width="32"/> | [Mobile Application Development - Android](https://drive.google.com/file/d/1oBeHoL8boLwHeHQ8piU165imn4cpIhJH/view?usp=sharing) | PencilBox | 2022 |
 | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="32"/> | [Oracle Certified Professional, Java SE 8 Programmer II](https://www.sololearn.com/Certificate/CT-WAGRHCDF/pdf) | SoloLearn | 2020 |
-| <img src="https://img.icons8.com/fluency/48/coursera.png" width="32"/> | [Machine Learning by BRAC University](https://www.coursera.org/verify/YOUR_COURSE_ID) | Coursera | 2024 |
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
