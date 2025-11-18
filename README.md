@@ -103,7 +103,8 @@
 
 
 ### 📄 Recent Publications
-<!-- PUBLICATIONS_PLACEHOLDER -->
+- [ShopGrids E-commerce Website Management System](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGfY9toAAAAJ&citation_for_view=gGfY9toAAAAJ:u5HHmVD_uO8C) (2022)
+
 
 ---
 

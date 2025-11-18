@@ -60,3 +60,5 @@ def update_readme(md_content, readme_path="README.md"):
 if __name__ == "__main__":
     md_content = fetch_publications(SCHOLAR_ID, API_KEY)
     update_readme(md_content)
+
+
