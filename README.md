@@ -20,7 +20,7 @@
 
 ### 🧩 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,wordpress" />
 </p>
 
 ### 🗄️ Database & Tools
@@ -28,6 +28,12 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,vscode,postman,tensorflow,phpstorm" />
 </p>
 
+<!-- ### ⚡ WordPress
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress" /> Theme & Plugin Development
+</p> -->
+
+---
 
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack | Link |
@@ -36,6 +42,8 @@
 | **E-Commerce Platform** | Full-stack e-commerce app with payment integration | Laravel, MySQL, JavaScript | [🔗 Live](https://demo.graygrids.com/themes/shopgrids/) / [📂 Code](https://github.com/Shaoun18/Shopgrids-Ecommerce-Website) |
 | **ERP Plugin** | Full ERP Solution – CRM, HRM & Accounts Integration | React, PHP, Tailwind CSS, REST API | [🔗 Live](https://wordpress.org/plugins/zetta-erp/) / [📂 Code](https://github.com/Shaoun18/WP_Erp/) |
 | **Sentiment Analyzer** | NLP-based sentiment analysis tool | Python, TensorFlow, NLTK | [📂 Code](https://github.com/shaoun18/ml-sentiment) |
+
+---
 
 ## 🌟 GitHub Highlights
 <div align="center">
@@ -53,7 +61,7 @@
   <b>Recent Contributions:</b><br>
   - 🛠️ Submitted a PR to <a href="https://github.com/open-source-project/example">Open Source Project</a> for adding dark mode support (Aug 2025)<br>
   - 🐛 Fixed a bug in <a href="https://github.com/open-source-project/example">Example Repo</a> issue #123 (Jul 2025)<br>
-  - ⭐ Reached 50 stars on my <a href="https://github.com/shaoun18/shaoun18.github.io">Portfolio</a> repository!
+  - ⭐ Reached 20 stars on my <a href="https://github.com/shaoun18/shaoun18.github.io">Portfolio</a> repository!
 </p>
 
 
@@ -92,6 +100,19 @@
 </td>
 </tr>
 </table>
+
+
+<!-- ### 📄 Recent Publications -->
+<!-- This section can be auto-updated using Google Scholar API / scholarly.py / SerpApi -->
+<!-- Example format:
+- [Title of Paper](URL) (Year)
+- [Another Paper](URL) (Year)
+-->
+<!-- {% include PUBLICATIONS.md %} -->
+### 📄 Recent Publications
+<!-- PUBLICATIONS_PLACEHOLDER -->
+
+---
 
 
 ### 🌍 Potential Collaborators & Groups  
