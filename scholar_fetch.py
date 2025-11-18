@@ -1,11 +1,10 @@
-# scholar_fetch.py
 import os
 import requests
 
-# Read API key from environment variable
+# Get SerpAPI key from environment variable
 API_KEY = os.environ.get("SERPAPI_KEY")
 if not API_KEY:
-    raise ValueError("SERPAPI_KEY environment variable not set! Please add it as a GitHub secret.")
+    raise ValueError("SERPAPI_KEY not set! Add it as a GitHub secret.")
 
 SCHOLAR_ID = "gGfY9toAAAAJ"
 PLACEHOLDER = "<!-- PUBLICATIONS_PLACEHOLDER -->"
@@ -17,8 +16,8 @@ def fetch_publications(scholar_id, api_key, limit=10):
         response = requests.get(url, timeout=15)
         response.raise_for_status()
     except requests.RequestException as e:
-        print(f"Error fetching data from SerpAPI: {e}")
-        return None  # signal failure
+        print(f"Error fetching data: {e}")
+        return None
 
     data = response.json()
     articles = data.get("articles", [])[:limit]
@@ -36,7 +35,7 @@ def fetch_publications(scholar_id, api_key, limit=10):
     return publications_md
 
 def update_readme(md_content, readme_path="README.md"):
-    """Replace placeholder in README.md with publication content."""
+    """Insert publications into README at placeholder."""
     if not md_content:
         print("No publications fetched, README not updated.")
         return
@@ -45,17 +44,17 @@ def update_readme(md_content, readme_path="README.md"):
         with open(readme_path, "r", encoding="utf-8") as f:
             readme = f.read()
     except FileNotFoundError:
-        print(f"{readme_path} not found! Aborting.")
+        print(f"{readme_path} not found!")
         return
 
     if PLACEHOLDER not in readme:
-        print(f"Placeholder '{PLACEHOLDER}' not found in {readme_path}. Aborting.")
+        print(f"Placeholder '{PLACEHOLDER}' not found in README.")
         return
 
     readme = readme.replace(PLACEHOLDER, md_content)
-
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(readme)
+
     print("README.md updated successfully!")
 
 if __name__ == "__main__":

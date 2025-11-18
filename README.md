@@ -102,13 +102,6 @@
 </table>
 
 
-<!-- ### 📄 Recent Publications -->
-<!-- This section can be auto-updated using Google Scholar API / scholarly.py / SerpApi -->
-<!-- Example format:
-- [Title of Paper](URL) (Year)
-- [Another Paper](URL) (Year)
--->
-<!-- {% include PUBLICATIONS.md %} -->
 ### 📄 Recent Publications
 <!-- PUBLICATIONS_PLACEHOLDER -->
 

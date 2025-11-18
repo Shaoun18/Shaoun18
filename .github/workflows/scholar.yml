@@ -3,14 +3,14 @@ name: Update Google Scholar Publications
 on:
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight UTC
-  workflow_dispatch:     # allows manual trigger
+  workflow_dispatch:     # manual trigger
 
 jobs:
   update-scholar:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -18,17 +18,17 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Fetch Publications & Update README
+      - name: Fetch publications & update README
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python scholar_fetch.py
 
-      - name: Commit & Push README.md
+      - name: Commit & push changes
         run: |
           git config --local user.email "github-actions@github.com"
           git config --local user.name "GitHub Action"
