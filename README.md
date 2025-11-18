@@ -12,11 +12,22 @@
 ---
 
 ## 🛠️ Skills & Tools
+
+### 🎨 Frontend
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,laravel,mysql,postgres,git,vscode,figma,postman,sass,bootstrap,angular,typescript,tensorflow" alt="Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,typescript,sass,bootstrap,figma" />
 </p>
+
+### 🧩 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python" />
+</p>
+
+### 🗄️ Database & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,vscode,postman,tensorflow,phpstorm" />
+</p>
+
 
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack | Link |
