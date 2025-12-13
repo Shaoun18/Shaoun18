@@ -130,7 +130,7 @@
 | Logo | Certification | Issuer | Year |
 |------|---------------|--------|------|
 | <img src="https://www.adscientificindex.com/assets/images/adscientificindex-logo-lite.png" width="32"/> | [World Scientist and University Rankings 2026](https://www.adscientificindex.com/scientist/shaoun-chandra-shill/6105866) | AD Scientific Index | 2025 |
-| <img src="https://bcet.uk/cdn/settings/136999600.png" width="32"/> | [PROFESSIONAL Certificate in Business Analytics](https://drive.google.com/file/d/1XLDNZTVtoYUz16zQlA2LOF4Zjti88iLT/view?usp=sharing) | BCET | 2025 |
+| <img src="https://bcet.uk/cdn/settings/136999600.png" width="32"/> | [Data Analytics Introductory level using the power BI and Tableau](https://drive.google.com/file/d/1VZRPZqePw9naujpyT6ShD41J0T3zQMnw/view?usp=drive_link) | BCET | 2025 |
 | <img src="https://uylab.org/_next/static/media/uylab_logo.197a4be0.svg" width="32"/> | [PROFESSIONAL WORDPRESS MASTERY ZERO TO HERO](https://drive.google.com/file/d/1XLDNZTVtoYUz16zQlA2LOF4Zjti88iLT/view?usp=sharing) | UYLAB | 2025 |
 | <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="32"/> | [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/) | AWS | 2025 |
 | <img src="https://skill.jobs/images/skilljobscolor.png" width="32"/> | [Data Science & Machine Learning for Beginners](https://drive.google.com/file/d/1nckHtfo43CamhO0wZhklTBg31Y4GK7qs/view?usp=sharing) | Skill.jobs | 2025 |
