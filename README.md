@@ -36,7 +36,7 @@
 ---
 
 ## 🚀 Featured Projects
-| Project | Description | Tech Stack | Link |
+| PROJECT | DESCRIPTION | TECH STACK | LINK |
 |---------|-------------|------------|------|
 | **Portfolio** | A sleek personal portfolio with modern UI/UX | HTML, CSS, Angular, TypeScript | [🔗 Live](https://shaoun18.github.io/) / [📂 Code](https://github.com/Shaoun18/shaoun18.github.io) |
 | **E-Commerce Platform** | Full-stack e-commerce app with payment integration | Laravel, MySQL, JavaScript | [🔗 Live](https://demo.graygrids.com/themes/shopgrids/) / [📂 Code](https://github.com/Shaoun18/Shopgrids-Ecommerce-Website) |
@@ -127,7 +127,7 @@
 
 
 ## 🎓 Certifications
-| Logo | Certification | Issuer | Year |
+| LOGO | CERTIFICATION | ISSUER | YEAR |
 |------|---------------|--------|------|
 | <img src="https://www.adscientificindex.com/assets/images/adscientificindex-logo-lite.png" width="32"/> | [World Scientist and University Rankings 2026](https://www.adscientificindex.com/scientist/shaoun-chandra-shill/6105866) | AD Scientific Index | 2025 |
 | <img src="https://bcet.uk/cdn/settings/136999600.png" width="32"/> | [Data Analytics Introductory level using the power BI and Tableau](https://drive.google.com/file/d/1VZRPZqePw9naujpyT6ShD41J0T3zQMnw/view?usp=drive_link) | BCET | 2025 |
@@ -145,19 +145,23 @@
 | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="32"/> | [Oracle Certified Professional, Java SE 8 Programmer II](https://www.sololearn.com/Certificate/CT-WAGRHCDF/pdf) | SoloLearn | 2020 |
 
 ## 📊 GitHub Stats & Activity
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaoun18&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Shaoun's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaoun18&layout=compact&theme=dracula&hide_border=true&langs_count=8&size_weight=0&count_weight=1" alt="Top Languages (by repos)" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaoun18&theme=dracula&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="Shaoun's Streak" />
+</div> -->
+
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=shaoun18&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaoun18&theme=dracula&hide_border=true&area=true" alt="Shaoun's Contribution Graph" />
 </div>
 <p align="center">
   <i>Visualizing my daily and monthly commit activity over the past year</i>
-</p>
+</p> -->
 
 ## 🏆 GitHub Achievements
 <div align="center">
