@@ -130,7 +130,7 @@
 | LOGO | CERTIFICATION | ISSUER | DATE |
 |------|---------------|--------|------|
 | <img src="https://www.adscientificindex.com/assets/images/adscientificindex-logo-lite.png" width="32"/> | [World Scientist and University Rankings 2026](https://www.adscientificindex.com/scientist/shaoun-chandra-shill/6105866) | AD Scientific Index | 01 September 2025 |
-| <img src="https://bcet.uk/cdn/settings/136999600.png" width="32"/> | [Data Analytics Introductory level using the power BI and Tableau](https://drive.google.com/file/d/1VZRPZqePw9naujpyT6ShD41J0T3zQMnw/view?usp=drive_link) | BCET | 02 December 2025 |
+| <img src="https://bcet.uk/cdn/settings/136999600.png" width="32"/> | [Data Analytics Introductory level using the power BI and Tableau](https://drive.google.com/file/d/1VZRPZqePw9naujpyT6ShD41J0T3zQMnw/view?usp=drive_link) | Brit College of Engineering & Technology (BCET) | 02 December 2025 |
 | <img src="https://uylab.org/_next/static/media/uylab_logo.197a4be0.svg" width="32"/> | [PROFESSIONAL WORDPRESS MASTERY ZERO TO HERO](https://drive.google.com/file/d/1XLDNZTVtoYUz16zQlA2LOF4Zjti88iLT/view?usp=sharing) | UYLAB | 15 September 2025 |
 | <img src="https://skill.jobs/images/skilljobscolor.png" width="32"/> | [Data Science & Machine Learning for Beginners](https://drive.google.com/file/d/1nckHtfo43CamhO0wZhklTBg31Y4GK7qs/view?usp=sharing) | Skill.jobs | 25 September 2025 |
 | <img src="https://skill.jobs/images/skilljobscolor.png" width="32"/> | [Networking & Cyber Security](https://drive.google.com/file/d/1dDNKkDXojsRzX_ck5ITuHSjAzPp_GSho/view?usp=sharing) | Skill.jobs | 25 June 2024 |
@@ -139,9 +139,9 @@
 | <img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="32"/> | [Machine Learning for Time Series Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9c8625dfab820a35492f8e30527df35a26b37983) | DataCamp | 15 June 2023 |
 | <img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="32"/> | [Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/844f1b12cdfe569c5926ddd79fa9b804170ece43) | DataCamp | 25 June 2023 |
 | <img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="32"/> | [Unsupervised Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e128f8001381d3f15ec7f04c36f41a7e6f6c4) | DataCamp | 10 July 2023 |
-| <img src="https://bitm.org.bd/storage/sites/0g5HsyGrInhhqXUoV8WtU5qtKkkqJg3MDYL4m92C.png" width="32"/> | [Web Design & Development Using Laravel &Vue.js](https://drive.google.com/file/d/1yZHr2WyzQCvxzPr1rQ_vTnQfis7sTJhB/view?usp=drive_link) | BITM | 01 October 2022 |
-| <img src="https://pencilbox.edu.bd/frontend/assets/img/logo/logo.webp" width="32"/> | [Mobile Application Development - Android](https://drive.google.com/file/d/1oBeHoL8boLwHeHQ8piU165imn4cpIhJH/view?usp=sharing) | PencilBox | 23 August 2022 |
-| <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="32"/> | [Oracle Certified Professional, Java SE 8 Programmer II](https://www.sololearn.com/Certificate/CT-WAGRHCDF/pdf) | SoloLearn | 08 March 2020 |
+| <img src="https://bitm.org.bd/storage/sites/0g5HsyGrInhhqXUoV8WtU5qtKkkqJg3MDYL4m92C.png" width="32"/> | [Web Design & Development Using Laravel &Vue.js](https://drive.google.com/file/d/1yZHr2WyzQCvxzPr1rQ_vTnQfis7sTJhB/view?usp=drive_link) | BASIS Institute of Technology & Management (BITM) | 01 October 2022 |
+| <img src="https://pencilbox.edu.bd/frontend/assets/img/logo/logo.webp" width="32"/> | [Mobile Application Development - Android](https://drive.google.com/file/d/1oBeHoL8boLwHeHQ8piU165imn4cpIhJH/view?usp=sharing) | PencilBox Training Institute | 23 August 2022 |
+| <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="32"/> | [Oracle Certified Professional, Java SE 8 Programmer II](https://www.sololearn.com/Certificate/CT-WAGRHCDF/pdf) | Sololearn | 08 March 2020 |
 
 ## 📊 GitHub Stats & Activity
 <!-- <div align="center">
