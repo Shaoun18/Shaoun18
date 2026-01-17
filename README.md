@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Shaoun Chandra Shill</h1>
-  <p>Full Stack Web Developer | Machine Learning Enthusiast | Open Source Contributor</p>
-  <p>Building innovative web solutions and exploring AI & Blockchain technologies from Bangladesh 🚀</p>
+  <p>Full Stack Web Developer | WordPress Plugin Developer | Machine Learning Enthusiast | Open Source Contributor</p>
+  <p>Building innovative web solutions and exploring AI, Blockchain, and WordPress ecosystems from Bangladesh 🚀</p>
   <a href="https://shaoun18.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/shaounchandrashill/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/shaoun_shill"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -130,6 +130,7 @@
 | LOGO | CERTIFICATION | ISSUER | DATE |
 |------|---------------|--------|------|
 | <img src="https://www.adscientificindex.com/assets/images/adscientificindex-logo-lite.png" width="32"/> | [World Scientist and University Rankings 2026](https://www.adscientificindex.com/scientist/shaoun-chandra-shill/6105866) | AD Scientific Index | 01 September 2025 |
+| <img src="https://totallyaicertified.com/favicon.png" width="32"/> | [Artficial Intelligence Excellence](https://drive.google.com/file/d/1GRHdmvS6bRTCKKQ9bfa0QAyC6slB2Jfw/view?usp=drive_link) | TotallyAiCertified | 16 January 2026 |
 | <img src="https://bcet.uk/cdn/settings/136999600.png" width="32"/> | [Data Analytics Introductory level using the power BI and Tableau](https://drive.google.com/file/d/1VZRPZqePw9naujpyT6ShD41J0T3zQMnw/view?usp=drive_link) | Brit College of Engineering & Technology (BCET) | 02 December 2025 |
 | <img src="https://uylab.org/_next/static/media/uylab_logo.197a4be0.svg" width="32"/> | [PROFESSIONAL WORDPRESS MASTERY ZERO TO HERO](https://drive.google.com/file/d/1XLDNZTVtoYUz16zQlA2LOF4Zjti88iLT/view?usp=sharing) | UYLAB | 15 September 2025 |
 | <img src="https://skill.jobs/images/skilljobscolor.png" width="32"/> | [Data Science & Machine Learning for Beginners](https://drive.google.com/file/d/1nckHtfo43CamhO0wZhklTBg31Y4GK7qs/view?usp=sharing) | Skill.jobs | 25 September 2025 |
