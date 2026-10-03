@@ -3,7 +3,7 @@ name: Update Google Scholar Publications
 on:
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight UTC
-  workflow_dispatch:     # manual trigger
+  workflow_dispatch:     # manual trigger   
 
 jobs:
   update-scholar:
