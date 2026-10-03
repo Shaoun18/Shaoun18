@@ -178,9 +178,9 @@ const shaoun = {
   <img src="https://img.shields.io/github/followers/shaoun18?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/shaoun18/shaoun18/output/snake-dark.svg" alt="Snake" />
-</div> -->
+</div>
 
 ---
 
