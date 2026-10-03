@@ -15,8 +15,6 @@
 <a href="https://leetcode.com/Shaoun20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 <a href="mailto:shaoun@bitbirds.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=shaoun18&style=flat-square&color=1DA1F2&label=Profile+Views" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Public_Repos-62-2B2B2B?style=flat-square&logo=github" alt="Public Repos" />
 <img src="https://img.shields.io/badge/Available_for_Hire-Yes-2ea44f?style=flat-square" alt="Available for Hire" />
