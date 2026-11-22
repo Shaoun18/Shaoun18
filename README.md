@@ -17,9 +17,21 @@
 
 **Software Engineer · WordPress Plugin Developer · Machine Learning Enthusiast**
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/profile-card.svg" width="100%" alt="Profile card" />
-</div>
+</div> -->
+
+<table>
+  <tr>
+    <td width="230" align="center" valign="middle">
+      <a href="https://github.com/shaoun18"><img src="https://github.com/shaoun18.png?size=300" width="200" alt="Shaoun Chandra Shill" /></a>
+      <br/><sub><b>@shaoun18</b></sub>
+    </td>
+    <td  valign="middle">
+      <img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/profile-card.svg" width="100%" alt="Profile card" />
+    </td>
+  </tr>
+</table>
 
 I enjoy building complete software systems — from WordPress plugins and Laravel back-ends to React/Angular front-ends and ML experiments — with clean, fast and well-tested code.
 
@@ -55,35 +67,44 @@ I enjoy building complete software systems — from WordPress plugins and Larave
   <tr>
     <td width="50%" valign="top">
       <h3>🔄 Reloadify Frontend Sync</h3>
-      <p>Project 1: WordPress.org-approved developer &amp; QA plugin that reloads every open frontend tab automatically when you save in Elementor, Divi, Bricks, Oxygen, Beaver Builder or the classic editor.</p>
+      <p>Wordpress Plugin: Reloadify Frontend Sync is an auto reload and live reload plugin for WordPress. It automatically refreshes your frontend previews after every content update, with cross-browser live reload, server performance controls, and image/media optimization for Elementor, Divi, Gutenberg, and all major page builders.</p>
       <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" /></p>
       <a href="https://wordpress.org/plugins/reloadify-frontend-sync/">🔗 WordPress.org</a>
     </td>
     <td width="50%" valign="top">
+      <h3>🔄 CacheNova</h3>
+      <p>Wordpress Plugin: CacheNova is an auto cache clear plugin for WordPress. It clears your site’s cache automatically, on a schedule you choose and every time you change something, so visitors always see your latest edits. Need it right now? Click Clear Cache Now in the top admin bar, on any page, with no page reload.</p>
+      <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" /></p>
+      <a href="https://wordpress.org/plugins/cachenova/">🔗 WordPress.org</a>
+    </td>
+    
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
       <h3>🏢 Zetta ERP</h3>
-      <p>Project 2: Full ERP solution for WordPress — CRM, HRM and Accounts in one plugin, with a React admin UI and REST API.</p>
+      <p>Wordpress Plugin: Full ERP solution for WordPress — CRM, HRM and Accounts in one plugin, with a React admin UI and REST API.</p>
       <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /></p>
       <a href="https://wordpress.org/plugins/zetta-erp/">🔗 Live</a> · <a href="https://github.com/Shaoun18/WP_Erp/">📂 Code</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🛒 E-Commerce Platform</h3>
-      <p>Project 3: Full-stack online store with payment integration and an admin management system — also my published paper.</p>
+      <h3>🛒Shopgrids E-Commerce Platform</h3>
+      <p>E-Commerce Store: Full-stack online store with payment integration and an admin management system — also my published paper.</p>
       <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
       <a href="https://demo.graygrids.com/themes/shopgrids/">🔗 Live</a> · <a href="https://github.com/Shaoun18/Shopgrids-Ecommerce-Website">📂 Code</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>💬 Sentiment Analyzer</h3>
-      <p>Project 4: NLP-based sentiment analysis tool built with Python, TensorFlow and NLTK.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white" alt="NLTK" /></p>
-      <a href="https://github.com/shaoun18/ml-sentiment">📂 Code</a>
-    </td>
+    
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+  <td width="50%" valign="top">
+      <h3>🌐 Browser-ML-Comparison</h3>
+      <p>Research: Comprehensive comparison of browser-based Machine Learning frameworks. Evaluates cross-platform compatibility, performance, and usability across browsers (Chrome, Firefox, Safari, Edge) and OS (Windows, macOS, Linux, Android, iOS). Includes examples, benchmarks, and use cases to help developers choose the right ML tool for web projects.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white" alt="NLTK" /></p>
+      <a href="https://github.com/Shaoun18/Browser-ML-Comparison">📂 Code</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio</h3>
-      <p>Project 5: Sleek personal portfolio with modern UI/UX. <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
+      <p>Modern portfolio showcasing projects, skills, and experience with a clean, responsive design.</p>
+      <p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
       <a href="https://shaoun18.github.io/">🔗 Live</a> · <a href="https://github.com/Shaoun18/shaoun18.github.io">📂 Code</a>
     </td>
   </tr>
@@ -164,11 +185,15 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 
 # 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaoun18&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaoun18&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=shaoun18&theme=dracula&hide_border=true" alt="Streak Stats" />
+</div> -->
+
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=shaoun18&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
 # ⏱️ Spent My Time
@@ -254,7 +279,7 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 # 🌱 Currently Exploring
 
 - 🧠 Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- 🇧🇩 Bangla NLP and text classification
+- 💥 Bangla NLP and text classification
 - ⚡ WordPress performance, caching and developer tooling
 - 🤖 Web automation and AI-assisted QA
 - 🏗️ Scalable back-end architecture
@@ -274,7 +299,8 @@ If you find my projects or plugins useful, consider giving them a ⭐ — your f
 <p align="center">
   <a href="https://github.com/shaoun18?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_PROJECTS-1DA1F2?style=flat-square&logo=github&logoColor=white" alt="EXPLORE-ALL_PROJECTS" /></a>
   <a href="https://wordpress.org/plugins/reloadify-frontend-sync/"><img src="https://img.shields.io/badge/TRY-RELOADIFY-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="TRY-RELOADIFY" /></a>
-  <a href="mailto:shaoun@bitbirds.com"><img src="https://img.shields.io/badge/SEND-FEEDBACK-D14836?style=flat-square&logo=gmail&logoColor=white" alt="SEND-FEEDBACK" /></a>
+  <!-- <a href="https://wordpress.org/plugins/cachenova/"><img src="https://img.shields.io/badge/TRY-RELOADIFY-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="TRY-CACHENOVA" /></a> -->
+  <a href="mailto:cse.engrshaounchandrashill@tutanota.de"><img src="https://img.shields.io/badge/SEND-FEEDBACK-D14836?style=flat-square&logo=gmail&logoColor=white" alt="SEND-FEEDBACK" /></a>
 </p>
 
 # 🤝 What I'm Looking For
