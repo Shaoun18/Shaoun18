@@ -1,158 +1,97 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaoun18&label=Profile%20Views&color=00e676&style=flat" alt="Profile Views" />
-  <a href="https://github.com/shaoun18?tab=followers"><img src="https://img.shields.io/github/followers/shaoun18?label=Followers&style=flat&logo=github" alt="Followers" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5722,100:1DA1F2&height=200&section=header&text=Shaoun%20Chandra%20Shill&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20WordPress%20Plugin%20Developer%20%7C%20ML%20Researcher&descSize=16&descAlignY=58" alt="Header" />
+
+<a href="https://shaoun18.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=1DA1F2&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Plugin+Developer;Machine+Learning+and+Bangla+NLP+Researcher;Open+Source+Contributor" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://shaoun18.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/shaounchandrashill/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/shaoun_shill"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://leetcode.com/Shaoun20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="mailto:shaoun@bitbirds.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<img src="https://komarev.com/ghpvc/?username=shaoun18&style=flat-square&color=1DA1F2&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Public_Repos-62-2B2B2B?style=flat-square&logo=github" alt="Public Repos" />
+<img src="https://img.shields.io/badge/Available_for_Hire-Yes-2ea44f?style=flat-square" alt="Available for Hire" />
+<img src="https://img.shields.io/badge/Based_in-Bangladesh-006a4e?style=flat-square" alt="Location" />
+
 </div>
 
-<div align="center">
-  <img src="assets/header_Updated.svg" width="100%" alt="Shaoun Chandra Shill — Software Engineer" />
-</div>
+---
+
+## 👨‍💻 About Me
+
+```js
+const shaoun = {
+  role: "Software Engineer & WordPress Plugin Developer",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  focus: ["Full Stack Web", "WordPress Ecosystem", "Machine Learning", "Bangla NLP"],
+  currentlyBuilding: "WordPress plugins & AI-powered web tools",
+  researchInterests: ["NLP", "AI for Accessibility", "Web Automation", "ML for Software Engineering"],
+  openTo: ["Research collaboration", "Co-authorship", "Open source", "Freelance / Full-time"],
+  funFact: "Built a full-stack app in 48 hours on tea and lo-fi beats 🎶",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="assets/specialization.svg" width="100%" alt="Full Stack and AI Engineering" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,sass,bootstrap,figma" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,wordpress" />
+
+**Database & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,tensorflow,phpstorm" />
+
 </div>
 
-# 👤 About Me
+---
 
-### Shaoun Chandra Shill
+## 🚀 Featured Projects
 
-**Software Engineer · WordPress Plugin Developer · Machine Learning Enthusiast**
-
-<!-- <div align="center">
-  <img src="assets/profile-card.svg" width="100%" alt="Profile card" />
-</div> -->
-
-<table>
-  <tr>
-    <td width="230" align="center" valign="middle">
-      <a href="https://github.com/shaoun18"><img src="https://github.com/shaoun18.png?size=300" width="200" alt="Shaoun Chandra Shill" /></a>
-      <br/><sub><b>@shaoun18</b></sub>
-    </td>
-    <td  valign="middle">
-      <img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/profile-card.svg" width="100%" alt="Profile card" />
-    </td>
-  </tr>
-</table>
-
-I enjoy building complete software systems — from WordPress plugins and Laravel back-ends to React/Angular front-ends and ML experiments — with clean, fast and well-tested code.
-
-- 🎓 **Field:** Software Engineering · Machine Learning · Bangla NLP
-- 🧩 **Shipped:** WordPress.org-approved plugins, including **Reloadify Frontend Sync**
-- 🎯 **Focus Areas:** Full Stack Web, WordPress Ecosystem, AI/ML, Web Automation
-- 🔬 **Research:** NLP, AI for Accessibility, ML for Software Engineering, HCI
-- 📍 **Location:** Dhaka, Bangladesh 🇧🇩
-- 📫 **Contact:** [shaoun@bitbirds.com](mailto:shaoun@bitbirds.com)
-- ⚡ **Fun Fact:** Built a full-stack app in 48 hours on tea and lo-fi beats 🎶
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-# 🌐 Socials
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **🔄 Reloadify Frontend Sync** | WordPress.org-approved plugin for frontend sync & live reload | PHP, JavaScript, WordPress | [🔗 WordPress.org](https://wordpress.org/plugins/reloadify-frontend-sync/) · Elementor, Divi, Bricks, Oxygen, Beaver Builder |
+| **🏢 Zetta ERP** | Full ERP solution — CRM, HRM & Accounts | React, PHP, Tailwind CSS, REST API | [🔗 Live](https://wordpress.org/plugins/zetta-erp/) · [📂 Code](https://github.com/Shaoun18/WP_Erp/) |
+| **🛒 E-Commerce Platform** | Full-stack store with payment integration | Laravel, MySQL, JavaScript | [🔗 Live](https://demo.graygrids.com/themes/shopgrids/) · [📂 Code](https://github.com/Shaoun18/Shopgrids-Ecommerce-Website) |
+| **🌐 Portfolio** | Sleek personal portfolio with modern UI/UX | Angular, TypeScript, HTML, CSS | [🔗 Live](https://shaoun18.github.io/) · [📂 Code](https://github.com/Shaoun18/shaoun18.github.io) |
+| **💬 Sentiment Analyzer** | NLP-based sentiment analysis tool | Python, TensorFlow, NLTK | [📂 Code](https://github.com/shaoun18/ml-sentiment) |
 
 <p align="center">
-  <a href="https://shaoun18.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PORTFOLIO-VISIT" /></a>
-  <a href="https://www.linkedin.com/in/shaounchandrashill/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN-CONNECT" /></a>
-  <a href="https://twitter.com/shaoun_shill"><img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="TWITTER-FOLLOW" /></a>
-  <a href="https://www.instagram.com/shaounchandrashill/"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="INSTAGRAM-FOLLOW" /></a>
-  <br/>
-  <a href="https://leetcode.com/Shaoun20/"><img src="https://img.shields.io/badge/LEETCODE-SOLVE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LEETCODE-SOLVE" /></a>
-  <a href="https://scholar.google.com/citations?user=gGfY9toAAAAJ"><img src="https://img.shields.io/badge/SCHOLAR-VIEW-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="SCHOLAR-VIEW" /></a>
-  <a href="https://github.com/shaoun18"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB-FOLLOW" /></a>
-  <a href="mailto:shaoun@bitbirds.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL-CONTACT" /></a>
+  <a href="https://github.com/shaoun18/shaoun18.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shaoun18&repo=shaoun18.github.io&theme=dracula&hide_border=true" alt="Portfolio Repo" /></a>
+  <a href="https://github.com/shaoun18/Shopgrids-Ecommerce-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shaoun18&repo=Shopgrids-Ecommerce-Website&theme=dracula&hide_border=true" alt="E-Commerce Repo" /></a>
 </p>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+---
 
-# 🚀 Featured Projects
+## 🔬 Research
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔄 Reloadify Frontend Sync</h3>
-      <p>Wordpress Plugin: Reloadify Frontend Sync is an auto reload and live reload plugin for WordPress. It automatically refreshes your frontend previews after every content update, with cross-browser live reload, server performance controls, and image/media optimization for Elementor, Divi, Gutenberg, and all major page builders.</p>
-      <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" /></p>
-      <a href="https://wordpress.org/plugins/reloadify-frontend-sync/">🔗 WordPress.org</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔄 CacheNova</h3>
-      <p>Wordpress Plugin: CacheNova is an auto cache clear plugin for WordPress. It clears your site’s cache automatically, on a schedule you choose and every time you change something, so visitors always see your latest edits. Need it right now? Click Clear Cache Now in the top admin bar, on any page, with no page reload.</p>
-      <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" /></p>
-      <a href="https://wordpress.org/plugins/cachenova/">🔗 WordPress.org</a>
-    </td>
-    
-  </tr>
-  <tr>
-  <td width="50%" valign="top">
-      <h3>🏢 Zetta ERP</h3>
-      <p>Wordpress Plugin: Full ERP solution for WordPress — CRM, HRM and Accounts in one plugin, with a React admin UI and REST API.</p>
-      <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /></p>
-      <a href="https://wordpress.org/plugins/zetta-erp/">🔗 Live</a> · <a href="https://github.com/Shaoun18/WP_Erp/">📂 Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒Shopgrids E-Commerce Platform</h3>
-      <p>E-Commerce Store: Full-stack online store with payment integration and an admin management system — also my published paper.</p>
-      <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
-      <a href="https://demo.graygrids.com/themes/shopgrids/">🔗 Live</a> · <a href="https://github.com/Shaoun18/Shopgrids-Ecommerce-Website">📂 Code</a>
-    </td>
-    
-  </tr>
-  <tr>
-  <td width="50%" valign="top">
-      <h3>🌐 Browser-ML-Comparison</h3>
-      <p>Research: Comprehensive comparison of browser-based Machine Learning frameworks. Evaluates cross-platform compatibility, performance, and usability across browsers (Chrome, Firefox, Safari, Edge) and OS (Windows, macOS, Linux, Android, iOS). Includes examples, benchmarks, and use cases to help developers choose the right ML tool for web projects.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white" alt="NLTK" /></p>
-      <a href="https://github.com/Shaoun18/Browser-ML-Comparison">📂 Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
-      <p>Modern portfolio showcasing projects, skills, and experience with a clean, responsive design.</p>
-      <p><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
-      <a href="https://shaoun18.github.io/">🔗 Live</a> · <a href="https://github.com/Shaoun18/shaoun18.github.io">📂 Code</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <i>🤝 Open to collaborations in <b>Machine Learning</b>, <b>NLP</b>, and <b>AI Applications</b> — especially <b>Bangla Language Processing</b>, <b>AI for Accessibility</b>, and <b>Web Automation</b>.</i>
+</div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-# 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Frameworks &amp; CMS**
-
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-</p>
-
-**AI / Machine Learning**
-
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Python_ML-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Python_ML" /> <img src="https://img.shields.io/badge/NLP-00A67E?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP" />
-</p>
-
-**Databases &amp; Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS_Code" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-# 🔬 Research
+<br/>
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
 ### 🌟 Areas of Interest
-
-- 📝 NLP (Bangla &amp; multilingual text)
+- 📝 NLP (Bangla & multilingual text)
 - ⚙️ Machine Learning for Software Engineering
-- ♿ AI-driven Accessibility &amp; Cybersecurity
-- 👩‍💻 Empirical Software Engineering &amp; HCI
-- 📈 Deep Learning (time series &amp; unsupervised)
+- ♿ AI-driven Accessibility & Cybersecurity
+- 👩‍💻 Empirical Software Engineering & HCI
+- 📈 Deep Learning (time series & unsupervised)
 
 </td>
 <td width="45%" valign="top">
@@ -160,12 +99,10 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 ### 📊 Research Metrics
 
 <!-- METRICS:START -->
-
-| Metric          | Count |
-| --------------- | :---: |
+| Metric | Count |
+|--------|:-----:|
 | 📄 Publications | **1** |
-| 🔍 Citations    | **1** |
-
+| 🔍 Citations | **1** |
 <!-- METRICS:END -->
 
 </td>
@@ -175,213 +112,102 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 ### 📄 Publications
 
 <!-- PUBLICATIONS:START -->
-
 - [ShopGrids E-commerce Website Management System](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGfY9toAAAAJ&citation_for_view=gGfY9toAAAAJ:u5HHmVD_uO8C) (2022)
 <!-- PUBLICATIONS:END -->
 
 <details>
-<summary><b>🌍 Aligned Research Groups</b></summary>
+<summary><b>🌍 Aligned Research Groups (click to expand)</b></summary>
 <br/>
 
 - **[Neural Research Bangladesh](https://www.neuralresearchbd.com/)** — CS, ML, AI, Deep Learning
 - **[CIOL – Computational Intelligence and Operations Laboratory](https://ciol-researchlab.github.io/)** — Bangla NLP, text classification, sentiment analysis
-- **[TensorFlow User Group Bangladesh](https://www.linkedin.com/company/madncb)** — ML developers &amp; researchers community
+- **[TensorFlow User Group Bangladesh](https://www.linkedin.com/company/madncb)** — ML developers & researchers community
 
 </details>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+---
 
-# 📊 GitHub Stats
+## 🎓 Certifications
+
+<details>
+<summary><b>🏅 View all certifications (click to expand)</b></summary>
+<br/>
+
+| | Certification | Issuer | Date |
+|:-:|---------------|--------|------|
+| <img src="https://www.adscientificindex.com/assets/images/adscientificindex-logo-lite.png" width="28"/> | [World Scientist and University Rankings 2026](https://www.adscientificindex.com/scientist/shaoun-chandra-shill/6105866) | AD Scientific Index | 01 Sep 2025 |
+| <img src="https://bcet.uk/cdn/settings/136999600.png" width="28"/> | [Research Paper](https://drive.google.com/file/d/1D111Wg8SJ_kpcyA2PRGOl5smRZTAfwhd/view) | CARSIT | 21 Apr 2026 |
+| <img src="https://totallyaicertified.com/favicon.png" width="28"/> | [Artificial Intelligence Excellence](https://drive.google.com/file/d/1GRHdmvS6bRTCKKQ9bfa0QAyC6slB2Jfw/view?usp=drive_link) | TotallyAiCertified | 16 Jan 2026 |
+| <img src="https://bcet.uk/cdn/settings/136999600.png" width="28"/> | [Data Analytics (Power BI & Tableau)](https://drive.google.com/file/d/1VZRPZqePw9naujpyT6ShD41J0T3zQMnw/view?usp=drive_link) | BCET | 02 Dec 2025 |
+| <img src="https://uylab.org/_next/static/media/uylab_logo.197a4be0.svg" width="28"/> | [Professional WordPress Mastery: Zero to Hero](https://drive.google.com/file/d/1XLDNZTVtoYUz16zQlA2LOF4Zjti88iLT/view?usp=sharing) | UYLAB | 15 Sep 2025 |
+| <img src="https://skill.jobs/images/skilljobscolor.png" width="28"/> | [Data Science & Machine Learning for Beginners](https://drive.google.com/file/d/1nckHtfo43CamhO0wZhklTBg31Y4GK7qs/view?usp=sharing) | Skill.jobs | 25 Sep 2025 |
+| <img src="https://skill.jobs/images/skilljobscolor.png" width="28"/> | [Networking & Cyber Security](https://drive.google.com/file/d/1dDNKkDXojsRzX_ck5ITuHSjAzPp_GSho/view?usp=sharing) | Skill.jobs | 25 Jun 2024 |
+| <img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="28"/> | [Cleaning Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/a5d06a728dd2cca5e13e22486930a562366931e4) | DataCamp | 15 May 2023 |
+| <img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="28"/> | [Feature Engineering for ML in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/f14ff24d48e46e2a8ab417bdf9a4290619b6cf2f) | DataCamp | 10 Jun 2023 |
+| <img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="28"/> | [ML for Time Series Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9c8625dfab820a35492f8e30527df35a26b37983) | DataCamp | 15 Jun 2023 |
+| <img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="28"/> | [ML with Tree-Based Models in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/844f1b12cdfe569c5926ddd79fa9b804170ece43) | DataCamp | 25 Jun 2023 |
+| <img src="https://www.svgrepo.com/show/349332/datacamp.svg" width="28"/> | [Unsupervised Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e128f8001381d3f15ec7f04c36f41a7e6f6c4) | DataCamp | 10 Jul 2023 |
+| <img src="https://bitm.org.bd/storage/sites/0g5HsyGrInhhqXUoV8WtU5qtKkkqJg3MDYL4m92C.png" width="28"/> | [Web Design & Development Using Laravel & Vue.js](https://drive.google.com/file/d/1yZHr2WyzQCvxzPr1rQ_vTnQfis7sTJhB/view?usp=drive_link) | BITM | 01 Oct 2022 |
+| <img src="https://pencilbox.edu.bd/frontend/assets/img/logo/logo.webp" width="28"/> | [Mobile App Development – Android](https://drive.google.com/file/d/1oBeHoL8boLwHeHQ8piU165imn4cpIhJH/view?usp=sharing) | PencilBox Training Institute | 23 Aug 2022 |
+| <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="28"/> | [Oracle Certified Professional, Java SE 8 Programmer II](https://www.sololearn.com/Certificate/CT-WAGRHCDF/pdf) | Sololearn | 08 Mar 2020 |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
 
 <!-- <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaoun18&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaoun18&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=shaoun18&theme=dracula&hide_border=true" alt="Streak Stats" />
+  <br/>
+  <img src="https://ghchart.rshah.org/1DA1F2/shaoun18" alt="Contribution Graph" width="90%" />
 </div> -->
 
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=shaoun18&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
-# ⏱️ Spent My Time
 
 <div align="center">
-  <img src="assets/how-i-build.svg" width="100%" alt="How I build" />
+  <img src="https://img.shields.io/badge/WordPress.org-2_Approved_Plugins-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Plugins" />
+  <img src="https://img.shields.io/badge/Research-1_Publication-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Publication" />
+  <img src="https://img.shields.io/badge/Certifications-15+-FF5722?style=for-the-badge" alt="Certifications" />
+  <img src="https://img.shields.io/github/followers/shaoun18?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shaoun18/shaoun18/output/snake-dark.svg" alt="Snake" />
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+- [Building a Scalable E-Commerce Platform with Laravel](https://sites.google.com/view/programmershaoun/blog) — *Aug 2025*
+- [Getting Started with NLP in Python](https://sites.google.com/view/programmershaoun/blog) — *Jul 2025*
+- [Optimizing React Apps for Performance](https://sites.google.com/view/programmershaoun/blog) — *Jun 2025*
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shaounchandrashill/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/shaoun_shill"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.instagram.com/shaounchandrashill/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:cse.engrshaounchandrashill@tutanota.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/shaoun18?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-2B2B2B?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>💻📩 Open to research collaborations, co-authorship, open-source contributions, and innovative initiatives.<br/>Let's connect via email or LinkedIn.</i>
   <br/><br/>
-  <img src="https://ghchart.rshah.org/00e676/shaoun18" alt="Contribution Graph" width="90%" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/shaoun18/shaoun18/output/snake-dark.svg" alt="Contribution snake" width="100%" />
+  ⭐ <b>If you like my work, drop a star on a repo!</b> ⭐
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-# 🎓 Certifications
-<!-- 
-<div align="center">
-  <img src="assets/certificates-banner.svg" width="100%" alt="Certifications and professional achievements" />
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Always+Learning;AI+and+Data+Science;WordPress+and+Web+Development;Research+and+Recognition" alt="Always learning" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/CERTIFICATES-15+-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="CERTIFICATES-15+" /> <img src="https://img.shields.io/badge/LEARNING_TRACKS-4-1DA1F2?style=flat-square&logo=bookmarks&logoColor=white" alt="LEARNING_TRACKS-4" /> <img src="https://img.shields.io/badge/LEARNING_MODE-ALWAYS_ON-00e676?style=flat-square&logo=rocket&logoColor=white" alt="LEARNING_MODE-ALWAYS_ON" />
-</div>
-
-<h3 align="center">🤖 AI &amp; Data Science</h3>
-<div align="center"><img src="https://img.shields.io/badge/TRACK-AI_%26_DATA-8B5CF6?style=flat-square&logo=bookmarks&logoColor=white" alt="TRACK-AI_%26_DATA" /></div>
-<br/>
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="280"><b>Artificial Intelligence Excellence</b><br/><sub>TotallyAiCertified · Jan 2026</sub><br/><a href="https://drive.google.com/file/d/1GRHdmvS6bRTCKKQ9bfa0QAyC6slB2Jfw/view?usp=drive_link"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-    <td align="center" valign="top" width="280"><b>Data Science &amp; ML for Beginners</b><br/><sub>Skill.jobs · Sep 2025</sub><br/><a href="https://drive.google.com/file/d/1nckHtfo43CamhO0wZhklTBg31Y4GK7qs/view?usp=sharing"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-    <td align="center" valign="top" width="280"><b>Data Analytics (Power BI &amp; Tableau)</b><br/><sub>BCET · Dec 2025</sub><br/><a href="https://drive.google.com/file/d/1VZRPZqePw9naujpyT6ShD41J0T3zQMnw/view?usp=drive_link"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="280"><b>Cleaning Data in Python</b><br/><sub>DataCamp · May 2023</sub><br/><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a5d06a728dd2cca5e13e22486930a562366931e4"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-    <td align="center" valign="top" width="280"><b>Feature Engineering for ML in Python</b><br/><sub>DataCamp · Jun 2023</sub><br/><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/f14ff24d48e46e2a8ab417bdf9a4290619b6cf2f"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-    <td align="center" valign="top" width="280"><b>ML for Time Series Data in Python</b><br/><sub>DataCamp · Jun 2023</sub><br/><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/9c8625dfab820a35492f8e30527df35a26b37983"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="280"><b>ML with Tree-Based Models in Python</b><br/><sub>DataCamp · Jun 2023</sub><br/><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/844f1b12cdfe569c5926ddd79fa9b804170ece43"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-    <td align="center" valign="top" width="280"><b>Unsupervised Learning in Python</b><br/><sub>DataCamp · Jul 2023</sub><br/><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e128f8001381d3f15ec7f04c36f41a7e6f6c4"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-  </tr>
-</table>
-
-<h3 align="center">🌐 Web &amp; WordPress</h3>
-<div align="center"><img src="https://img.shields.io/badge/TRACK-WEB_%26_WP-21759B?style=flat-square&logo=bookmarks&logoColor=white" alt="TRACK-WEB_%26_WP" /></div>
-<br/>
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="280"><b>Professional WordPress Mastery: Zero to Hero</b><br/><sub>UYLAB · Sep 2025</sub><br/><a href="https://drive.google.com/file/d/1XLDNZTVtoYUz16zQlA2LOF4Zjti88iLT/view?usp=sharing"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-21759B?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-    <td align="center" valign="top" width="280"><b>Web Design &amp; Development: Laravel &amp; Vue.js</b><br/><sub>BITM · Oct 2022</sub><br/><a href="https://drive.google.com/file/d/1yZHr2WyzQCvxzPr1rQ_vTnQfis7sTJhB/view?usp=drive_link"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-21759B?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-  </tr>
-</table>
-
-<h3 align="center">🛡️ Cyber Security &amp; Software</h3>
-<div align="center"><img src="https://img.shields.io/badge/TRACK-SOFTWARE-F05032?style=flat-square&logo=bookmarks&logoColor=white" alt="TRACK-SOFTWARE" /></div>
-<br/>
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="280"><b>Networking &amp; Cyber Security</b><br/><sub>Skill.jobs · Jun 2024</sub><br/><a href="https://drive.google.com/file/d/1dDNKkDXojsRzX_ck5ITuHSjAzPp_GSho/view?usp=sharing"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-F05032?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-    <td align="center" valign="top" width="280"><b>Mobile App Development – Android</b><br/><sub>PencilBox · Aug 2022</sub><br/><a href="https://drive.google.com/file/d/1oBeHoL8boLwHeHQ8piU165imn4cpIhJH/view?usp=sharing"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-F05032?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-    <td align="center" valign="top" width="280"><b>Oracle Certified Professional, Java SE 8 Programmer II</b><br/><sub>Sololearn · Mar 2020</sub><br/><a href="https://www.sololearn.com/Certificate/CT-WAGRHCDF/pdf"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-F05032?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-  </tr>
-</table>
-
-<h3 align="center">🔬 Research &amp; Recognition</h3>
-<div align="center"><img src="https://img.shields.io/badge/TRACK-RESEARCH-F59E0B?style=flat-square&logo=bookmarks&logoColor=white" alt="TRACK-RESEARCH" /></div>
-<br/>
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="280"><b>World Scientist &amp; University Rankings 2026</b><br/><sub>AD Scientific Index · Sep 2025</sub><br/><a href="https://www.adscientificindex.com/scientist/shaoun-chandra-shill/6105866"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-F59E0B?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-    <td align="center" valign="top" width="280"><b>Research Paper</b><br/><sub>CARSIT · Apr 2026</sub><br/><a href="https://drive.google.com/file/d/1D111Wg8SJ_kpcyA2PRGOl5smRZTAfwhd/view"><img src="https://img.shields.io/badge/VIEW-CERTIFICATE-F59E0B?style=flat-square&logo=readthedocs&logoColor=white" alt="View certificate"/></a></td>
-  </tr>
-</table>
-
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/VERIFIED_LEARNING_PORTFOLIO-15_CERTIFICATES-8B5CF6?style=flat-square&logo=verified&logoColor=white" alt="VERIFIED_LEARNING_PORTFOLIO-15_CERTIFICATES" />
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div> -->
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/certificates-banner.svg" width="100%" alt="Certifications and professional achievements" />
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Always+Learning;AI+and+Data+Science;WordPress+and+Web+Development;Research+and+Recognition" alt="Always learning" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/CERTIFICATES-15+-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" alt="CERTIFICATES-15+" /> <img src="https://img.shields.io/badge/LEARNING_TRACKS-4-1DA1F2?style=flat-square&logo=bookmarks&logoColor=white" alt="LEARNING_TRACKS-4" /> <img src="https://img.shields.io/badge/LEARNING_MODE-ALWAYS_ON-00e676?style=flat-square&logo=rocket&logoColor=white" alt="LEARNING_MODE-ALWAYS_ON" />
-</div>
-
-<h3 align="center">🤖 AI &amp; Data Science</h3>
-<div align="center"><img src="https://img.shields.io/badge/TRACK-AI_%26_DATA-8B5CF6?style=flat-square&logo=bookmarks&logoColor=white" alt="track"/></div>
-<br/>
-<div align="center">
-  <a href="https://drive.google.com/file/d/1GRHdmvS6bRTCKKQ9bfa0QAyC6slB2Jfw/view?usp=drive_link"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-01.svg" width="300" alt="Certificate 1" /></a>
-  <a href="https://drive.google.com/file/d/1nckHtfo43CamhO0wZhklTBg31Y4GK7qs/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-02.svg" width="300" alt="Certificate 2" /></a>
-  <a href="https://drive.google.com/file/d/1VZRPZqePw9naujpyT6ShD41J0T3zQMnw/view?usp=drive_link"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-03.svg" width="300" alt="Certificate 3" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a5d06a728dd2cca5e13e22486930a562366931e4"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-04.svg" width="300" alt="Certificate 4" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/f14ff24d48e46e2a8ab417bdf9a4290619b6cf2f"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-05.svg" width="300" alt="Certificate 5" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/9c8625dfab820a35492f8e30527df35a26b37983"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-06.svg" width="300" alt="Certificate 6" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/844f1b12cdfe569c5926ddd79fa9b804170ece43"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-07.svg" width="300" alt="Certificate 7" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e128f8001381d3f15ec7f04c36f41a7e6f6c4"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-08.svg" width="300" alt="Certificate 8" /></a>
-</div>
-
-<h3 align="center">🌐 Web &amp; WordPress</h3>
-<div align="center"><img src="https://img.shields.io/badge/TRACK-WEB_%26_WP-21759B?style=flat-square&logo=bookmarks&logoColor=white" alt="track"/></div>
-<br/>
-<div align="center">
-  <a href="https://drive.google.com/file/d/1XLDNZTVtoYUz16zQlA2LOF4Zjti88iLT/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-09.svg" width="300" alt="Certificate 9" /></a>
-  <a href="https://drive.google.com/file/d/1yZHr2WyzQCvxzPr1rQ_vTnQfis7sTJhB/view?usp=drive_link"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-10.svg" width="300" alt="Certificate 10" /></a>
-</div>
-
-<h3 align="center">🛡️ Cyber Security &amp; Software</h3>
-<div align="center"><img src="https://img.shields.io/badge/TRACK-SOFTWARE-F97316?style=flat-square&logo=bookmarks&logoColor=white" alt="track"/></div>
-<br/>
-<div align="center">
-  <a href="https://drive.google.com/file/d/1dDNKkDXojsRzX_ck5ITuHSjAzPp_GSho/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-11.svg" width="300" alt="Certificate 11" /></a>
-  <a href="https://drive.google.com/file/d/1oBeHoL8boLwHeHQ8piU165imn4cpIhJH/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-12.svg" width="300" alt="Certificate 12" /></a>
-  <a href="https://www.sololearn.com/Certificate/CT-WAGRHCDF/pdf"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-13.svg" width="300" alt="Certificate 13" /></a>
-</div>
-
-<h3 align="center">🔬 Research &amp; Recognition</h3>
-<div align="center"><img src="https://img.shields.io/badge/TRACK-RESEARCH-F59E0B?style=flat-square&logo=bookmarks&logoColor=white" alt="track"/></div>
-<br/>
-<div align="center">
-  <a href="https://www.adscientificindex.com/scientist/shaoun-chandra-shill/6105866"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-14.svg" width="300" alt="Certificate 14" /></a>
-  <a href="https://drive.google.com/file/d/1D111Wg8SJ_kpcyA2PRGOl5smRZTAfwhd/view"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-15.svg" width="300" alt="Certificate 15" /></a>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/VERIFIED_LEARNING_PORTFOLIO-15_CERTIFICATES-8B5CF6?style=flat-square&logo=verified&logoColor=white" alt="VERIFIED_LEARNING_PORTFOLIO-15_CERTIFICATES" />
-</div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/divider.svg" width="100%" alt=""/></div>
-
-# 🌱 Currently Exploring
-
-- 🧠 Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- 💥 Bangla NLP and text classification
-- ⚡ WordPress performance, caching and developer tooling
-- 🤖 Web automation and AI-assisted QA
-- 🏗️ Scalable back-end architecture
-
-# 📝 Latest Blog Posts
-
-- [Building a Scalable E-Commerce Platform with Laravel](https://sites.google.com/view/programmershaoun/blog) — _Aug 2025_
-- [Getting Started with NLP in Python](https://sites.google.com/view/programmershaoun/blog) — _Jul 2025_
-- [Optimizing React Apps for Performance](https://sites.google.com/view/programmershaoun/blog) — _Jun 2025_
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-# ⭐ Support
-
-If you find my projects or plugins useful, consider giving them a ⭐ — your feedback, suggestions and contributions are welcome.
-
-<p align="center">
-  <a href="https://github.com/shaoun18?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_PROJECTS-1DA1F2?style=flat-square&logo=github&logoColor=white" alt="EXPLORE-ALL_PROJECTS" /></a>
-  <a href="https://wordpress.org/plugins/reloadify-frontend-sync/"><img src="https://img.shields.io/badge/TRY-RELOADIFY-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="TRY-RELOADIFY" /></a>
-  <!-- <a href="https://wordpress.org/plugins/cachenova/"><img src="https://img.shields.io/badge/TRY-RELOADIFY-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="TRY-CACHENOVA" /></a> -->
-  <a href="mailto:cse.engrshaounchandrashill@tutanota.de"><img src="https://img.shields.io/badge/SEND-FEEDBACK-D14836?style=flat-square&logo=gmail&logoColor=white" alt="SEND-FEEDBACK" /></a>
-</p>
-
-# 🤝 What I'm Looking For
-
-I'm open to **Software Engineering**, **WordPress development**, **QA** and **research collaboration** opportunities — including co-authorship and open-source work.
-
-If you'd like to collaborate, discuss an opportunity, or just connect — feel free to reach out.
-
-<div align="center">
-  <img src="assets/areas-of-expertise.svg" width="100%" alt="Areas of expertise" />
-</div>
-
-<div align="center">
-
-### Thanks for visiting my profile!
-
-⭐ **If you like my work, drop a star on a repo you find useful.** ⭐
-
-</div>
-
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DA1F2,100:FF5722&height=100&section=footer" width="100%" alt="Footer" />
