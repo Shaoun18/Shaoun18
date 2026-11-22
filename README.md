@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Shaoun Chandra Shill — Software Engineer" />
+  <img src="assets/header_Updated.svg" width="100%" alt="Shaoun Chandra Shill — Software Engineer" />
 </div>
 
 <div align="center">
@@ -115,21 +115,25 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 # 🛠️ Tech Stack
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 **Frameworks &amp; CMS**
+
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 **AI / Machine Learning**
+
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Python_ML-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Python_ML" /> <img src="https://img.shields.io/badge/NLP-00A67E?style=for-the-badge&logo=huggingface&logoColor=white" alt="NLP" />
 </p>
 
 **Databases &amp; Tools**
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS_Code" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
@@ -143,6 +147,7 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 <td width="55%" valign="top">
 
 ### 🌟 Areas of Interest
+
 - 📝 NLP (Bangla &amp; multilingual text)
 - ⚙️ Machine Learning for Software Engineering
 - ♿ AI-driven Accessibility &amp; Cybersecurity
@@ -155,10 +160,12 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 ### 📊 Research Metrics
 
 <!-- METRICS:START -->
-| Metric | Count |
-|--------|:-----:|
+
+| Metric          | Count |
+| --------------- | :---: |
 | 📄 Publications | **1** |
-| 🔍 Citations | **1** |
+| 🔍 Citations    | **1** |
+
 <!-- METRICS:END -->
 
 </td>
@@ -168,6 +175,7 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 ### 📄 Publications
 
 <!-- PUBLICATIONS:START -->
+
 - [ShopGrids E-commerce Website Management System](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gGfY9toAAAAJ&citation_for_view=gGfY9toAAAAJ:u5HHmVD_uO8C) (2022)
 <!-- PUBLICATIONS:END -->
 
@@ -286,9 +294,9 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 
 # 📝 Latest Blog Posts
 
-- [Building a Scalable E-Commerce Platform with Laravel](https://sites.google.com/view/programmershaoun/blog) — *Aug 2025*
-- [Getting Started with NLP in Python](https://sites.google.com/view/programmershaoun/blog) — *Jul 2025*
-- [Optimizing React Apps for Performance](https://sites.google.com/view/programmershaoun/blog) — *Jun 2025*
+- [Building a Scalable E-Commerce Platform with Laravel](https://sites.google.com/view/programmershaoun/blog) — _Aug 2025_
+- [Getting Started with NLP in Python](https://sites.google.com/view/programmershaoun/blog) — _Jul 2025_
+- [Optimizing React Apps for Performance](https://sites.google.com/view/programmershaoun/blog) — _Jun 2025_
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
