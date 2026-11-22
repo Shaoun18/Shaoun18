@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-label="Footer wave">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF5722"/>
+      <stop offset="1" stop-color="#1DA1F2"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" opacity="0.45">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 50 Q250 10 500 45 T1000 35 L1000 110 L0 110Z;M0 35 Q250 70 500 35 T1000 50 L1000 110 L0 110Z;M0 50 Q250 10 500 45 T1000 35 L1000 110 L0 110Z"/>
+  </path>
+  <path fill="url(#g)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0 70 Q250 40 500 68 T1000 60 L1000 110 L0 110Z;M0 60 Q250 90 500 62 T1000 72 L1000 110 L0 110Z;M0 70 Q250 40 500 68 T1000 60 L1000 110 L0 110Z"/>
+  </path>
+</svg>
