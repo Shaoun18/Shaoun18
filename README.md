@@ -40,7 +40,7 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 - 🎯 **Focus Areas:** Full Stack Web, WordPress Ecosystem, AI/ML, Web Automation
 - 🔬 **Research:** NLP, AI for Accessibility, ML for Software Engineering, HCI
 - 📍 **Location:** Dhaka, Bangladesh 🇧🇩
-- 📫 **Contact:** [shaoun@bitbirds.com](mailto:shaoun@bitbirds.com)
+- 📫 **Contact:** [cse.engrshaounchandrashill@tutanota.de](mailto:cse.engrshaounchandrashill@tutanota.de)
 - ⚡ **Fun Fact:** Built a full-stack app in 48 hours on tea and lo-fi beats 🎶
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
@@ -300,11 +300,11 @@ I enjoy building complete software systems — from WordPress plugins and Larave
   <a href="https://drive.google.com/file/d/1GRHdmvS6bRTCKKQ9bfa0QAyC6slB2Jfw/view?usp=drive_link"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-01.svg" width="300" alt="Certificate 1" /></a>
   <a href="https://drive.google.com/file/d/1nckHtfo43CamhO0wZhklTBg31Y4GK7qs/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-02.svg" width="300" alt="Certificate 2" /></a>
   <a href="https://drive.google.com/file/d/1VZRPZqePw9naujpyT6ShD41J0T3zQMnw/view?usp=drive_link"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-03.svg" width="300" alt="Certificate 3" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a5d06a728dd2cca5e13e22486930a562366931e4"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-04.svg" width="300" alt="Certificate 4" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/f14ff24d48e46e2a8ab417bdf9a4290619b6cf2f"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-05.svg" width="300" alt="Certificate 5" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/9c8625dfab820a35492f8e30527df35a26b37983"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-06.svg" width="300" alt="Certificate 6" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/844f1b12cdfe569c5926ddd79fa9b804170ece43"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-07.svg" width="300" alt="Certificate 7" /></a>
-  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cb1e128f8001381d3f15ec7f04c36f41a7e6f6c4"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-08.svg" width="300" alt="Certificate 8" /></a>
+  <a href="https://drive.google.com/file/d/1FygDojA4RgQX-BOdT5TFwzFX5fqgmQzP/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-04.svg" width="300" alt="Certificate 4" /></a>
+  <a href="https://drive.google.com/file/d/11nSRLIT4aJPhVSUa9K-5kHPIs6JxdRpH/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-05.svg" width="300" alt="Certificate 5" /></a>
+  <a href="https://drive.google.com/file/d/1PDMn6CF34DnmU4OhiRQLYuIoJpPD9IAg/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-06.svg" width="300" alt="Certificate 6" /></a>
+  <a href="https://drive.google.com/file/d/11C6y27C77isVOuXgjf0jrdM6J8M2qYfw/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-07.svg" width="300" alt="Certificate 7" /></a>
+  <a href="https://drive.google.com/file/d/1dGkBi92Y3gwJIP8VIXWWe8EZo_leqVrU/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-08.svg" width="300" alt="Certificate 8" /></a>
 </div>
 
 <h3 align="center">🌐 Web &amp; WordPress</h3>
@@ -313,6 +313,7 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 <div align="center">
   <a href="https://drive.google.com/file/d/1XLDNZTVtoYUz16zQlA2LOF4Zjti88iLT/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-09.svg" width="300" alt="Certificate 9" /></a>
   <a href="https://drive.google.com/file/d/1yZHr2WyzQCvxzPr1rQ_vTnQfis7sTJhB/view?usp=drive_link"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-10.svg" width="300" alt="Certificate 10" /></a>
+  <a href="https://drive.google.com/file/d/10AppwroiclIQa0WNZONO2rM5ItxYK5uQ/view?usp=sharing"><img src="assets/cert-16.svg" width="300" alt="SQA Web Automation with Playwright & AI" /></a>
 </div>
 
 <h3 align="center">🛡️ Cyber Security &amp; Software</h3>
