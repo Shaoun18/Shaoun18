@@ -313,7 +313,7 @@ I enjoy building complete software systems — from WordPress plugins and Larave
 <div align="center">
   <a href="https://drive.google.com/file/d/1XLDNZTVtoYUz16zQlA2LOF4Zjti88iLT/view?usp=sharing"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-09.svg" width="300" alt="Certificate 9" /></a>
   <a href="https://drive.google.com/file/d/1yZHr2WyzQCvxzPr1rQ_vTnQfis7sTJhB/view?usp=drive_link"><img src="https://raw.githubusercontent.com/shaoun18/shaoun18/main/assets/cert-10.svg" width="300" alt="Certificate 10" /></a>
-  <a href="https://drive.google.com/file/d/10AppwroiclIQa0WNZONO2rM5ItxYK5uQ/view?usp=sharing"><img src="assets/cert-16.svg" width="300" alt="SQA Web Automation with Playwright & AI" /></a>
+  <a href="https://drive.google.com/file/d/10AppwroiclIQa0WNZONO2rM5ItxYK5uQ/view?usp=sharing"><img src="assets/cert-16_Updated.svg" width="300" alt="SQA Web Automation with Playwright & AI" /></a>
 </div>
 
 <h3 align="center">🛡️ Cyber Security &amp; Software</h3>
